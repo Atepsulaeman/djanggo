@@ -1,2 +1,2 @@
 # djanggo
-belajar_djanggo
+belajar_djanggo atep
